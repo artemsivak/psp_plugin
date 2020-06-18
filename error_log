@@ -1,0 +1,8 @@
+[02-Apr-2020 14:37:54 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_results() on null in /home/fxpneu/public_html/dev/wp-content/plugins/psp_plugin/notification_url.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/fxpneu/public_html/dev/wp-content/plugins/psp_plugin/notification_url.php on line 28
+[02-Apr-2020 14:38:34 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_results() on null in /home/fxpneu/public_html/dev/wp-content/plugins/psp_plugin/notification_url.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/fxpneu/public_html/dev/wp-content/plugins/psp_plugin/notification_url.php on line 28
